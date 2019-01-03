@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  Learn
+//
+//  Created by ios on 2019/1/2.
+//  Copyright © 2019年 KN. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "WeakMacros.h"
+#endif /* PrefixHeader_pch */
