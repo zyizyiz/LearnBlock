@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8147E38C21E8DC2A00A7FF82 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		815FA29721DC879B004F189F /* LearnBlock */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearnBlock; sourceTree = BUILT_PRODUCTS_DIR; };
 		815FA29A21DC879B004F189F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		815FA2A121DC9B66004F189F /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
@@ -59,6 +60,7 @@
 		815FA29921DC879B004F189F /* LearnBlock */ = {
 			isa = PBXGroup;
 			children = (
+				8147E38C21E8DC2A00A7FF82 /* main.cpp */,
 				815FA29A21DC879B004F189F /* main.m */,
 				815FA2A121DC9B66004F189F /* PrefixHeader.pch */,
 				815FA2A221DC9B90004F189F /* WeakMacros.h */,
